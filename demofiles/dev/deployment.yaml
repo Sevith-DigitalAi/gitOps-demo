@@ -1,0 +1,5 @@
+apiVersion: xl-deploy/v1
+kind: Deployment
+spec:
+ package: Applications/Greet-web/1.0
+ environment: Environments/dev
