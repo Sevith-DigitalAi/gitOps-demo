@@ -1,5 +1,5 @@
 apiVersion: xl-deploy/v1
 kind: Deployment
 spec:
- package: Applications/Test/1.0
+ package: Applications/Test/2.0
  environment: Environments/dev
